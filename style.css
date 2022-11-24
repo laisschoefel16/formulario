@@ -1,13 +1,8 @@
 body{
   background:pink;
 }
-
 thead {
-
 background: #555555;
-
-color: white;
-
+color: black;
 font-weight: bold;
-
 }
